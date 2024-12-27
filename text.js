@@ -1,6 +1,6 @@
 const translations = {
     ko: {
-        //(1K)Nav
+        //(1K)Nav bar
         about: "전시 소개",
         people: "함께한 사람들",
         futureLab: "퓨처랩 살펴보기",
@@ -103,7 +103,7 @@ const translations = {
             member11: {
                 member_name: "호라이",
                 member_role: "청소년 작업자",
-                member_keyword: `#투명한 #감미로운 #음악 #우드 #피아노 #리메이트 #활발한 #강력한 #풀 #소라 #푸른 
+                member_keyword: `#투명한 #감미로운 #음악 #우드 #피아노 #리메이크 #활발한 #강력한 #풀 #소라 #푸른 
                 #낡은 #오래된 #거미`,
             },
             member12: {
@@ -125,17 +125,17 @@ const translations = {
             },
             member15: {
                 member_name: "노바",
-                member_role: "모티(청년 퍼실리에이터)",
+                member_role: "모티 (청년 퍼실리에이터)",
                 member_keyword: "#Do it for fun :)",
             },
             member16: {
                 member_name: "스톤",
-                member_role: "모티(청년 퍼실리에이터)",
+                member_role: "모티 (청년 퍼실리에이터)",
                 member_keyword: "#데굴데굴데굴데굴",
             },
             member17: {
                 member_name: "J",
-                member_role: "모티(청년 퍼실리에이터)",
+                member_role: "모티 (청년 퍼실리에이터)",
                 member_keyword: "#모두를 위한 다정한 상상력 #예술공학 #좋은 감각 큐레이션",
             },
         },
@@ -262,8 +262,8 @@ const translations = {
                 art_size: "25(W)x20(L)x20(H)(cm)",
                 art_material: "나무, 천, 솜, 클레이, 페인트",
                 art_year: "2024",
-                art_detail: `다양한 소재로 이루어진 미니어쳐 공간은, 관객이 자신이 좋아하는 공간에 대해
-                상상을 하게 한다.`,
+                art_detail: `다양한 소재로 이루어진 미니어쳐 공간은, 관객이 자신이 좋아하는 공간을
+                상상하게 한다.`,
             },
             art10: {
                 art_name: "포쿠",
@@ -525,17 +525,17 @@ const translations = {
             },
             member15: {
                 member_name: "노바",
-                member_role: "Moti(facilitator)",
+                member_role: "Moti (facilitator)",
                 member_keyword: "#Do it for fun :)",
             },
             member16: {
                 member_name: "스톤",
-                member_role: "Moti(facilitator)",
+                member_role: "Moti (facilitator)",
                 member_keyword: "#(..) ( l: ) ( .-. ) ( :l ) (..)",
             },
             member17: {
                 member_name: "J",
-                member_role: "Moti(facilitator)",
+                member_role: "Moti (facilitator)",
                 member_keyword: "#Warm Imagination for our communities #ArtEngineering #Curating Good Sensibilities",
             },
         },
@@ -733,7 +733,7 @@ const translations = {
                 title: "Spin Table",
                 price: "₩10,900",
                 size: "Diameter of 42cm",
-                material: "grass",
+                material: "Wood",
                 detail: `The product for convenience in movement trajector.`
             },
             prod5: {
